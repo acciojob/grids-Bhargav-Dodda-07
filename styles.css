@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+
+#main{
+	width: 600px;
+	height: 800px;
+	border: 5px solid #04ff02;
+}
